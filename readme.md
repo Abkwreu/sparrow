@@ -6,25 +6,25 @@
 
 | Letter | Chord | Letter | Chord |
 | ---: | :--- | ---: | :--- |
-| A | `A` | N | `TPH` |
-| B | `PW` | O | `O` |
-| C | `KR` | P | `P` |
-| D | `TK` | Q | `KW` |
-| E | `E` _or_ `SK` | R | `R` |
-| F | `TP` | S | `S` |
-| G | `TKPW` | T | `T` |
-| H | `H` | U | `U` _or_ `WR` |
-| I | `EU` _or_ `SKW` | V | `SR` |
-| J | `SKWR` | W | `W` |
-| K | `K` | X | `KP` |
-| L | `HR` | Y | `KWR` |
-| M | `PH` | Z | `STKPW` _or_ `STK` |
+| a | `A` | n | `TPH` |
+| b | `PW` | o | `O` |
+| c | `KR` | p | `P` |
+| d | `TK` | q | `KW` |
+| e | `E` _or_ `SK` | r | `R` |
+| f | `TP` | s | `S` |
+| g | `TKPW` | t | `T` |
+| h | `H` | u | `U` _or_ `WR` |
+| i | `EU` _or_ `SKW` | v | `SR` |
+| j | `SKWR` | w | `W` |
+| k | `K` | x | `KP` |
+| l | `HR` | y | `KWR` |
+| m | `PH` | z | `STKPW` _or_ `STK` |
 
 | Letters | Chord |
 | --: | :--- |
-| CH | `KH` |
-| SH | `SH` |
-| TH | `TH` |
+| ch | `KH` |
+| sh | `SH` |
+| th | `TH` |
 
 ### Fingerspelling Variants
 
@@ -54,7 +54,6 @@ TBD
 | **th**is | /ð/ | `TH` |
 | **v**ie | /v/ | `SR` |
 | **w**ine | /w/ | `W` |
-| **wh**ine | /w ~ hw/ | `WH` |
 | **y**es | /j/ | `KWR` |
 | **z**oo | /z/ | `SKW` |
 
