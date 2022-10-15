@@ -63,5 +63,5 @@ TBD
 | ---: | :---: | :--- | :--- |
 | **Ch**ełmno, **ch**utzpah | /x/ | `K`, `H` | Written `K` or `H` depending on the common English pronuncation. |
 | **Ng**uyen, **Ng**uni | /ŋ/ | `TPH` | Written as /n/. |
-| **Zh**ou | /ʒ/ | `SKWH` | /ʒ/ is only written `SKWH` when it is spelled with the letter Z (not necessarily in the ZH sequence, for example in _a**z**ure_ and _**Rz**eszów_.) In other cases, it is written `SKWR` or `SH` depending on the spelling. |
+| **Zh**ou | /ʒ/ | `SKWH` | /ʒ/ is only written `SKWH` when it is spelled with the letter Z (not necessarily in the ZH sequence, for example in _a**z**ure_ and _**Rz**eszów_.) In other cases, it is written `SKWR` (e.g. _**g**enre_) or `SH` (e.g. _mea**s**ure_) depending on the spelling. |
 | uh<b>-</b>oh, Hawai<b>'</b>i | /ʔ/ | - | Not written.
