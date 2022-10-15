@@ -57,6 +57,8 @@ TBD
 | **y**es | /j/ | `KWR` |
 | **z**oo | /z/ | `SKW` |
 
+### Marginal Initials
+
 | Initial | IPA | Chord | Notes |
 | ---: | :---: | :--- | :--- |
 | **Ch**ełmno, **ch**utzpah | /x/ | `K`, `H` | Written `K` or `H` depending on the common English pronuncation. |
